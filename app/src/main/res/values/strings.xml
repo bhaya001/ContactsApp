@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ContactsApp</string>
+    <string name="acc">Sauvgarder</string>
+    <string name="nouveau">Annuler</string>
+    <string name="nom">Nom et Prenom :</string>
+    <string name="tel">Télephone :</string>
+    <string name="email">Email :</string>
+    <string name="statut">Statut :</string>
+    <string name="fichier">Fichier :</string>
+    <string name="title_activity_accueil">AccueilActivity</string>
+    <string name="title_activity_form">FormActivity</string>
+</resources>
